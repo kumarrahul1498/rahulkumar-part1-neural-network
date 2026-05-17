@@ -1,0 +1,5 @@
+Experiment,Hidden Layers,Activation,Learning Rate,Batch Size,Epochs Run,Train Accuracy,Test Accuracy,Train Loss,Test Loss
+More_neurons_relu,"(32,)",relu,0.001,32,12,0.9844,0.985,0.2151,0.2123
+Two_hidden_layers_relu,"(32, 16)",relu,0.001,32,13,0.9844,0.985,0.1728,0.1676
+Lower_lr_tanh,"(16,)",tanh,0.0005,64,19,0.9788,0.9725,0.2768,0.28
+Baseline_1_hidden_relu,"(16,)",relu,0.001,32,14,0.9706,0.965,0.2645,0.273
